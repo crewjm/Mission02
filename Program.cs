@@ -50,6 +50,7 @@ public class DiceRoller
         // Returning rollCounts below
 
         return rollCounts;
+        // Testing to see if github updates my changes ignore
     }
 }    
 
