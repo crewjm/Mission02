@@ -12,3 +12,4 @@
 /Users/crewmanwaring/RiderProjects/Mission02/obj/Debug/net8.0/Mission02.pdb
 /Users/crewmanwaring/RiderProjects/Mission02/obj/Debug/net8.0/Mission02.genruntimeconfig.cache
 /Users/crewmanwaring/RiderProjects/Mission02/obj/Debug/net8.0/ref/Mission02.dll
+/Users/crewmanwaring/RiderProjects/Mission02/obj/Debug/net8.0/Mission02.sourcelink.json

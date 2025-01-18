@@ -26,7 +26,7 @@ public class DiceSimulator
             double percentage = (double)rollCounts[i - 2] / numRolls * 100;
             int numStars = (int)Math.Round(percentage);
 
-            Console.WriteLine($"{1}: {new string('*', numStars)} ({percentage:F2}%)");
+            Console.WriteLine($"{i}: {new string('*', numStars)} ({percentage:F2}%)");
         }
 
         Console.WriteLine("\nThank you for using the dice simulator! Bye");
